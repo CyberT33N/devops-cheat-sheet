@@ -101,3 +101,42 @@
 *   **Ist Jira ein DevOps-Tool?** Primär Projektmanagement, aber integriert sich oft in DevOps-Workflows.
 *   **Terraform vs. Pulumi?** Terraform nutzt HCL (DSL), Pulumi nutzt Programmiersprachen. Pulumi flexibler für komplexe Logik, Terraform einfacher & weiter verbreitet.
 *   **Prometheus & Grafana?** Prometheus sammelt Metriken, Grafana visualisiert sie in Dashboards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+---
+
+<br><br>
+
+# Docker
+
+## Tools
+- https://github.com/psviderski/unregistry?utm_source=tldrnewsletter
+
+
+
+
+
